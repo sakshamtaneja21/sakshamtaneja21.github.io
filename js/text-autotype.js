@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Hacker.Developer.Learner'];
+var list = ['PM Enthusiast | Tech Evangelist | Community Guy'];
 var a=list[0];
 var len = list.length;
 var num = 0;
